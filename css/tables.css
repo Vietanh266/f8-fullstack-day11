@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+table {
+  border: 2px solid #000;
+  border-collapse: collapse;
+  font-size: 1.6rem;
+}
+
+h4 {
+  margin: 0;
+}
+
+table thead tr th span {
+  flex-grow: 1;
+}
+
+table th,
+table td {
+  border: 2px solid #000;
+}
